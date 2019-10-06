@@ -16,3 +16,5 @@ New line
 
 Mot yet edited line
 Nwewe
+
+## Copyright
