@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Tyler Derden fightclub@fuckyou.com
 
 # THANKS
 
